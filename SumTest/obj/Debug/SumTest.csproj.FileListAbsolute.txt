@@ -1,0 +1,8 @@
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\bin\Debug\SumTest.pdb
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\obj\Debug\SumTest.csprojResolveAssemblyReference.cache
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\obj\Debug\SumTest.pdb
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\bin\Debug\nunit.framework.dll
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\bin\Debug\nunit.framework.xml
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\bin\Debug\SumTest.dll.config
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\bin\Debug\SumTest.dll
+C:\Users\francesc\Dropbox\DAM_2\m07\UF2\SumTest\SumTest\obj\Debug\SumTest.dll
